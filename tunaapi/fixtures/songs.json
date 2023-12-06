@@ -1,0 +1,24 @@
+[
+  {
+      "model": "tunaapi.song",
+      "pk": 1,
+      "fields": {
+        "id": 123,
+        "title": "Song 1",
+        "artist_id": 456,
+        "album": "Album 1",
+        "length": 180
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 2,
+      "fields": {
+        "id": 789,
+        "title": "Song 2",
+        "artist_id": 456,
+        "album": "Album 2",
+        "length": 240
+      }
+  }
+]
