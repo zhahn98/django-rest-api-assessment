@@ -1,12 +1,18 @@
-{
-  "genres": [
-    {
-      "id": 123,
-      "description": "Genre 1"
-    },
-    {
-      "id": 456,
-      "description": "Genre 2"
-    }
-  ]
-}
+[
+  {
+      "model": "tunaapi.genre",
+      "pk": 1,
+      "fields": {
+        "id": 123,
+        "description": "Genre 1"
+      }
+  },
+  {
+      "model": "tunaapi.genre",
+      "pk": 2,
+      "fields": {
+        "id": 456,
+        "description": "Genre 2"
+      }
+  }
+]
